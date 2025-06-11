@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaibhav Hingnekar
+- 👋 Hi, I’m **Vaibhav Hingnekar**
 - 👀 I’m interested in building smart applications, exploring AI/ML innovations, solving real-world problems with code, and staying on top of emerging tech trends
 - 🌱 Currently diving deep into Artificial Intelligence, Natural Language Processing tasks, and hands-on machine learning projects
 - 💞️ Open to collaborating on hackathons, research-based projects, and real-world applications in AI and web development
